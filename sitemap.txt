@@ -1,1 +1,1 @@
-http://wisehouse.github.io/ref-doc/04
+https://wisehouse.github.io/ref-doc/04.html
